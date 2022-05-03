@@ -1,2 +1,2 @@
-pynput.mouse
+pynput
 keyboard
